@@ -1,4 +1,4 @@
-# TIK_TAK_TOE
+# TIC_TAK_TOE
 
 This ia a web development project of a widely known and popular game know to us as Tik Tak Toe.
 
